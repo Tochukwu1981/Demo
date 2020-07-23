@@ -1,0 +1,9 @@
+# While Loop - This is used to test a condition, if true the loop is executed!
+# This example stops executing when count < 10. 
+count <- 0
+while (count < 10) {
+print(count)
+count <- count + 
+}
+
+
